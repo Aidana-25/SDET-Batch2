@@ -25,3 +25,4 @@ describe('practicing eq method', () => {
 
 });
 
+//Second day of practice Batch3
